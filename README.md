@@ -4,7 +4,7 @@ CodeMind is a online Coding forum Where you can Discuss about a problem and shar
 # Screenshots 
 <img src="images/ss1.PNG">
 
-# This forum has different categories you can start discussion <br> in any of them.
+# This forum has different categories you can start discussion in any of them.
 <img src="images/ss2.PNG">
 
 <img src="images/ss4.PNG">
